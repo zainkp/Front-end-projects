@@ -1,0 +1,10 @@
+html{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    width: 850px;
+    background-color: beige;
+    margin: auto;
+    padding: 40px 40px 40px;
+}
