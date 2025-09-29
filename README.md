@@ -14,4 +14,4 @@ It demonstrates clean structure, semantic elements, and basic styling for a pers
 ## 🚀 How to View
 1. Clone this repository:
    ```bash
-   git clone https://github.com/zainkp/cv-project.git
+   https://github.com/zainkp/cv-project
