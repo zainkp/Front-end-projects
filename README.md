@@ -11,6 +11,16 @@ It demonstrates clean structure, semantic elements, and basic styling for a pers
 
 ---
 
+### Screenshots
+
+![part 1](snaps/part1.png)
+
+---
+
+![part 2](snaps/part2.png)
+
+---
+
 ## 🚀 How to View
 1. Clone this repository:
    ```bash
